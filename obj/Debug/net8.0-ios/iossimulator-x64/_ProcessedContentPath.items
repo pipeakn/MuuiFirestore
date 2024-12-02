@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Content Include="Resources\Images\dotnet_bot.png" />
+    <Content Include="C:\Users\Admin\.nuget\packages\microsoft.web.webview2\1.0.2651.64\build\\..\runtimes\win-x64\native\WebView2Loader.dll" />
+    <Content Include="Resources\Raw\AboutAssets.txt" />
+    <Content Include="Resources\Raw\dx212-2024-a7b0e-firebase-adminsdk-7v235-4933ea8e9b.json" />
+  </ItemGroup>
+</Project>
